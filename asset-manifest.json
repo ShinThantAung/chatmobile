@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatmobile/static/css/main.468ec71e.chunk.css",
+    "main.js": "/chatmobile/static/js/main.8454d89a.chunk.js",
+    "main.js.map": "/chatmobile/static/js/main.8454d89a.chunk.js.map",
+    "runtime-main.js": "/chatmobile/static/js/runtime-main.bf09f26c.js",
+    "runtime-main.js.map": "/chatmobile/static/js/runtime-main.bf09f26c.js.map",
+    "static/js/2.6f4f753f.chunk.js": "/chatmobile/static/js/2.6f4f753f.chunk.js",
+    "static/js/2.6f4f753f.chunk.js.map": "/chatmobile/static/js/2.6f4f753f.chunk.js.map",
+    "index.html": "/chatmobile/index.html",
+    "precache-manifest.96d6ab87844c691860c96f780f596f04.js": "/chatmobile/precache-manifest.96d6ab87844c691860c96f780f596f04.js",
+    "service-worker.js": "/chatmobile/service-worker.js",
+    "static/css/main.468ec71e.chunk.css.map": "/chatmobile/static/css/main.468ec71e.chunk.css.map",
+    "static/js/2.6f4f753f.chunk.js.LICENSE.txt": "/chatmobile/static/js/2.6f4f753f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf09f26c.js",
+    "static/js/2.6f4f753f.chunk.js",
+    "static/css/main.468ec71e.chunk.css",
+    "static/js/main.8454d89a.chunk.js"
+  ]
+}
